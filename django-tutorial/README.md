@@ -14,3 +14,6 @@
 5. Check migrations `python manage.py sqlmigrate polls 0001`
 6. Check project `python manage.py check`
 7. Create admin user `python manage.py createsuperuser`
+
+## Part 3
+1. Add views and urls
