@@ -17,3 +17,4 @@
 
 ## Part 3
 1. Add views and urls
+2. Add templates
