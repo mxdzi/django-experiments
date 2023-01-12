@@ -18,3 +18,7 @@
 ## Part 3
 1. Add views and urls
 2. Add templates
+
+## Part 4
+1. Add Forms
+2. 
