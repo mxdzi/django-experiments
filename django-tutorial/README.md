@@ -21,4 +21,4 @@
 
 ## Part 4
 1. Add Forms
-2. 
+2. Add Generic Views
