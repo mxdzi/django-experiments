@@ -22,3 +22,15 @@
 ## Part 4
 1. Add Forms
 2. Add Generic Views
+
+## Part 5
+1. Add tests, run `python manage.py test polls`
+2. Test views using Client
+```python
+from django.test.utils import setup_test_environment
+setup_test_environment()
+
+from django.test import Client
+client = Client()
+response = client.get("/")
+```
