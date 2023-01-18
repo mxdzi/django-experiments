@@ -34,3 +34,6 @@ from django.test import Client
 client = Client()
 response = client.get("/")
 ```
+
+## Part 6
+1. Add static files
