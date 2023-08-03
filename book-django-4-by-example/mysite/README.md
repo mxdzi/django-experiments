@@ -12,3 +12,6 @@
    - `python manage.py makemigrations blog`
    - `python manage.py sqlmigrate blog 0001`
    - `python manage.py migrate`
+4. Create a superuser
+   - `python manage.py createsuperuser`
+5. Add admin site
