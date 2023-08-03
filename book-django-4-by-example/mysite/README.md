@@ -8,3 +8,7 @@
     - `poetry shell`
     - `django-admin startproject mysite .`
     - `python manage.py runserver`
+3. Add blog models
+   - `python manage.py makemigrations blog`
+   - `python manage.py sqlmigrate blog 0001`
+   - `python manage.py migrate`
